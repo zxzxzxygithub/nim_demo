@@ -1,0 +1,8 @@
+*.iml
+uikit/build/
+.idea/
+demo/build/
+.gradle/
+build/
+.DS_Store
+local.properties
